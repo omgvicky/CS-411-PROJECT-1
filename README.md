@@ -13,5 +13,9 @@ To make an entry, users just need to enter a entry title, description, and they 
 
 Ultimately, StarFit opens a new hobby and opportunity for individuals who want monitor, document, and maintain their health and fitness lifestyles. 
 
+### 3 Apps that are Similar to Starfit 
+1. MyFitnessPal  
+2. Day One Journal
+3. Calory
 
 ### Unfortunately, due to current events, we are unable to submit this app to the app store as the team does not have the financial means of becoming Apple Developers at this unprecendented time.  
