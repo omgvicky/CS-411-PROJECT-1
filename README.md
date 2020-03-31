@@ -12,3 +12,6 @@ Whether users want to document their fitness progress or want to create an entry
 To make an entry, users just need to enter a entry title, description, and they even have the option to upload an image from their device!
 
 Ultimately, StarFit opens a new hobby and opportunity for individuals who want monitor, document, and maintain their health and fitness lifestyles. 
+
+
+### Unfortunately, due to current events, we are unable to submit this app to the app store as the team does not have the financial means of becoming an Apple Developer at this unprecendented time.  
