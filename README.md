@@ -14,4 +14,4 @@ To make an entry, users just need to enter a entry title, description, and they 
 Ultimately, StarFit opens a new hobby and opportunity for individuals who want monitor, document, and maintain their health and fitness lifestyles. 
 
 
-### Unfortunately, due to current events, we are unable to submit this app to the app store as the team does not have the financial means of becoming an Apple Developer at this unprecendented time.  
+### Unfortunately, due to current events, we are unable to submit this app to the app store as the team does not have the financial means of becoming Apple Developers at this unprecendented time.  
